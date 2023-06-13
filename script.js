@@ -14,6 +14,4 @@ const len = arr.length;
 	}
 }
 
-let result = threeSum([-1,2,1,-4],1);
-alert(result);
 module.exports = threeSum;
