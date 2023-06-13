@@ -29,6 +29,5 @@ function threeSum(nums, target) {
 
   return closestSum;
 }
-let result = threeSum([1, 4, 45, 6, 10, 8],22);
-alert(result);
+
 module.exports = threeSum;
